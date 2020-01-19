@@ -1,0 +1,38 @@
+{
+  "name": "global-store-manager",
+  "version": "1.0.3",
+  "description": "manages global store for your project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "global",
+    "store",
+    "manager",
+    "store",
+    "react",
+    "node",
+    "global",
+    "store",
+    "state",
+    "manager",
+    "store",
+    "manager",
+    "store",
+    "management",
+    "state",
+    "management",
+    "react",
+    "store",
+    "react",
+    "state"
+  ],
+  "author": "Fatih Türker",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.1.8"
+  }
+}
